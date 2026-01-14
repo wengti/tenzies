@@ -57,6 +57,7 @@ export default function App() {
   function handleGameStart() {
     setGameStart(true)
     setTimeDiff(0)
+    
     const now = new Date()
     setIntervalUpdate(setInterval(() => {
       setTimeDiff(new Date() - now)
