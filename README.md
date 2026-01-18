@@ -1,5 +1,5 @@
 # Tenzies
-A simple implementation of a game of tenzies, built on the React framework. The players are encouraged to get 10 dice of same pip values as fast as possible and with as little re-roll as possible.
+A simple implementation of a game of tenzies, built on the React library. The players are encouraged to get 10 dice of same pip values as fast as possible and with as little re-roll as possible.
 
 Visit the implementation here: https://tenzies-dhz4.onrender.com/
 
